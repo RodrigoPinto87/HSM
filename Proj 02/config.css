@@ -1,0 +1,28 @@
+.setenta {
+    float: left;
+    width: 70%;
+    height: 400px;
+       
+}
+
+.trinta {
+    float: left;
+    background-color: palevioletred;    
+    width: 30%;
+    height: 300px;
+}
+
+.trinta1 {
+    float: left;
+    background-color: red;
+    width: 30%;
+    height: 100px;
+    font-size: ;
+}
+
+.cem {
+    float: left;
+    background-color: royalblue;
+    height: 200px;
+    width: 100%;
+}
